@@ -9,8 +9,8 @@
   }
   @keyframes ani {
     0%   {background-color:red; left:0px; right:0px;}
-    25%  {background-color:yellow; left:200px; right:0px;}
-    50%  {background-color:blue; left:200px; right:200px;}
-    75%  {background-color:green; left:0px; right:200px;}
+    25%  {background-color:yellow; left:400px; right:0px;}
+    50%  {background-color:blue; left:400px; right:400px;}
+    75%  {background-color:green; left:0px; right:400px;}
     100% {background-color:red; left:0px; right:0px;}
   }
